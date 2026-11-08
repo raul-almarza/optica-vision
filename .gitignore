@@ -1,0 +1,14 @@
+# Vídeos de demostración (demasiado pesados para git)
+*.mp4
+
+# Datos de acceso locales
+credenciales.txt
+url.txt
+
+# Archivos personales no relacionados con la web
+Claude outputs/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
